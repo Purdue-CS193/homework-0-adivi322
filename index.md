@@ -2,7 +2,7 @@
 
 ## Favorite things about CS193
 - *chill instructors*
-- *no exam*
+- *no midterm or final exam*
 - *fun classes*
 
 ## GitHub Pages Instructions

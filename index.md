@@ -1,9 +1,9 @@
 # Akhil Divi's First CS193 Homework
 
 ## Favorite things about CS193
--*chill instructors*
--*no exam*
--*fun classes*
+- *chill instructors*
+- *no exam*
+- *fun classes*
 
 ## GitHub Pages Instructions
 
